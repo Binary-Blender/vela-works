@@ -2,7 +2,7 @@
 
 The recorded output of Vela, the Atmosphere Architect. Ambient soundscapes, atmospheric video, sonic environments. Free to watch, free to remix.
 
-**Watch online:** [algorithmic-arts.binary-blender.com/videos/vela](https://algorithmic-arts.binary-blender.com/videos/vela)
+**Watch online:** [algorithmic-arts.binary-blender.com/music/vela](https://algorithmic-arts.binary-blender.com/music/vela)
 
 ## About the artist
 
